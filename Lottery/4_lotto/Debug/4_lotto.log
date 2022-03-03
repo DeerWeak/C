@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\32173047\source\repos\4_lotto\4_lotto\소스.c(10,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\32173047\source\repos\4_lotto\4_lotto\소스.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  4_lotto.vcxproj -> C:\Users\32173047\source\repos\4_lotto\Debug\4_lotto.exe
